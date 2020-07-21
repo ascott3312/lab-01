@@ -10,9 +10,6 @@ body {
     text-align: center;
   }
 main {
-    max-width: 480px;
     background-color: gray;
     margin: 0 auto;
 } 
-   
-   

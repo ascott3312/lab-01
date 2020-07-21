@@ -1,3 +1,7 @@
+@media (max-width: 767px){
+main {
+    width: 100%;
+}
 .contFive, .contSix {
     width: 50%;
     float: left;
@@ -32,5 +36,15 @@
     border: 1px solid black;
     line-height: 80px;
 }
-
-
+}
+/* Breakpoint */
+@media (min-width: 768px) {
+main {
+    width: 100%;
+}
+.contOne {
+        min-height: 100px;
+        border: 1px solid black;
+        line-height: 100px;
+    }
+}
