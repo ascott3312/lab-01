@@ -21,9 +21,9 @@
     line-height: 125px;
 }
 .contNine {
-    min-height: 80px;
+    min-height: 150px;
     border: 1px solid black;
-    line-height: 80px;
+    line-height: 150px;
 }
 /* Breakpoint */
 @media (min-width: 768px) {
@@ -59,8 +59,6 @@
         float: left;
     }
     .contNine {
-        width: 760px;
         min-height: 150px;
-        float: right;
     } 
 }
